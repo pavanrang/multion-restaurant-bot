@@ -1,5 +1,3 @@
-Sure, here's a README file for your weekend project:
-
 # Restaurant Booking Chatbot
 
 This project is a simple chatbot application that helps users book a restaurant table based on the date, time, location, and number of people mentioned in the conversation. The chatbot is powered by OpenAI's text-davinci-003 language model and utilizes the Langchain library for agent setup and interaction.
